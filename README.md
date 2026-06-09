@@ -3,7 +3,7 @@
 A responsive weather application built with React JS and Vite that provides real-time weather information for any city worldwide.
 
 ## 🚀 Live Demo
-[View Live Project](YOUR_VERCEL_LINK_HERE)
+[View Live Project](https://weather-app-three-sigma-31.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **React JS** — Frontend framework
