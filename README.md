@@ -5,48 +5,68 @@ A responsive weather application built with React + Vite that fetches real-time 
 ## 🚀 Live Demo
 [View Live Project](https://weather-app-three-sigma-31.vercel.app/)
 
-🚀 Features
+## 🚀 Features
 
-🔍 Search weather by city name
+- 🔍 Search weather by city name
+- 🌡️ Real-time temperature, humidity & wind speed
+- 🌥️ Dynamic weather icons based on conditions
+- 📱 Fully responsive design
+- ⚡ Fast performance with Vite bundler
 
-🌡️ Real-time temperature, humidity & wind speed
+---
 
-🌥️ Dynamic weather icons based on conditions
+## 🛠️ Tech Stack
 
-📱 Fully responsive design
+- **React** – Frontend UI
+- **Vite** – Build tool & dev server
+- **OpenWeatherMap API** – Live weather data
+- **CSS3** – Styling & responsiveness
 
-⚡ Fast performance with Vite bundler
+---
 
+## 📦 Installation & Setup
 
-🛠️ Tech Stack
+### 1. Clone the repository
 
-React – Frontend UI
+```bash
+git clone https://github.com/Bushra3895/weather-app.git
+```
 
-Vite – Build tool & dev server
+### 2. Navigate to project directory
 
-OpenWeatherMap API – Live weather data
+```bash
+cd weather-app
+```
 
-CSS3 – Styling & responsiveness
+### 3. Install dependencies
 
+```bash
+npm install
+```
 
-📦 Installation & Setup
-1. Clone the repository
-bashgit clone https://github.com/Bushra3895/weather-app.git
-2. Navigate to project directory
-bashcd weather-app
-3. Install dependencies
-bashnpm install
-4. Start development server
-bashnpm run dev
+### 4. Start development server
 
-🔑 Environment Variables
-Create a .env file in the root directory and add your API key:
-envVITE_API_KEY=your_openweather_api_key
+```bash
+npm run dev
+```
 
-💡 Get your free API key from openweathermap.org
+---
 
+## 🔑 Environment Variables
 
-📁 Project Structure
+Create a `.env` file in the **root directory** and add your API key:
+
+```env
+VITE_API_KEY=your_openweather_api_key
+```
+
+> 💡 Get your free API key from [openweathermap.org](https://openweathermap.org/api)
+
+---
+
+## 📁 Project Structure
+
+```
 weather-app/
 ├── public/
 ├── src/
@@ -60,5 +80,23 @@ weather-app/
 ├── package.json
 ├── vite.config.js
 └── README.md
-👩‍💻 Developer
-Bushra — GitHub
+```
+
+---
+
+## 📸 Screenshots
+
+> *(Add your app screenshots here)*
+
+---
+
+## 👩‍💻 Developer
+
+**Bushra** — [GitHub](https://github.com/Bushra3895)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
