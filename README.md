@@ -84,12 +84,6 @@ weather-app/
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your app screenshots here)*
-
----
-
 ## 👩‍💻 Developer
 
 **Bushra** — [GitHub](https://github.com/Bushra3895)
