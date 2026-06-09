@@ -8,17 +8,24 @@ A responsive weather application built with React + Vite that fetches real-time 
 🚀 Features
 
 🔍 Search weather by city name
+
 🌡️ Real-time temperature, humidity & wind speed
+
 🌥️ Dynamic weather icons based on conditions
+
 📱 Fully responsive design
+
 ⚡ Fast performance with Vite bundler
 
 
 🛠️ Tech Stack
 
 React – Frontend UI
+
 Vite – Build tool & dev server
+
 OpenWeatherMap API – Live weather data
+
 CSS3 – Styling & responsiveness
 
 
