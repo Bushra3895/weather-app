@@ -1,41 +1,57 @@
 # 🌤️ Weather App
 
-A responsive weather application built with React JS and Vite that provides real-time weather information for any city worldwide.
+A responsive weather application built with React + Vite that fetches real-time weather data using the OpenWeatherMap API. Search any city worldwide and get current temperature, humidity, wind speed, and weather conditions instantly.
 
 ## 🚀 Live Demo
 [View Live Project](https://weather-app-three-sigma-31.vercel.app/)
 
-## 🛠️ Tech Stack
-- **React JS** — Frontend framework
-- **Vite** — Build tool
-- **OpenWeather API** — Weather data
-- **CSS3** — Styling
+🚀 Features
 
-## ✨ Features
-- 🔍 Search weather by city name
-- 🌡️ Real-time temperature display
-- 💧 Humidity information
-- 🌬️ Wind speed details
-- ⚠️ Error handling for invalid cities
-- 📱 Fully responsive design
+🔍 Search weather by city name
+🌡️ Real-time temperature, humidity & wind speed
+🌥️ Dynamic weather icons based on conditions
+📱 Fully responsive design
+⚡ Fast performance with Vite bundler
 
-## 📦 Installation & Setup
 
-```bash
-# Clone the repository
-git clone https://github.com/Bushra3895/weather-app.git
+🛠️ Tech Stack
 
-# Navigate to project directory
-cd weather-app
+React – Frontend UI
+Vite – Build tool & dev server
+OpenWeatherMap API – Live weather data
+CSS3 – Styling & responsiveness
 
-# Install dependencies
-npm install
 
-# Start development server
-npm run dev
-## 🔑 Environment Variables
-Create a `.env` file in root directory:
-VITE_API_KEY=your_openweather_api_key
+📦 Installation & Setup
+1. Clone the repository
+bashgit clone https://github.com/Bushra3895/weather-app.git
+2. Navigate to project directory
+bashcd weather-app
+3. Install dependencies
+bashnpm install
+4. Start development server
+bashnpm run dev
 
-## 👩‍💻 Developer
-**Bushra** — [GitHub](https://github.com/Bushra3895)
+🔑 Environment Variables
+Create a .env file in the root directory and add your API key:
+envVITE_API_KEY=your_openweather_api_key
+
+💡 Get your free API key from openweathermap.org
+
+
+📁 Project Structure
+weather-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── .env
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+👩‍💻 Developer
+Bushra — GitHub
