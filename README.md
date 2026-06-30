@@ -24,6 +24,7 @@ A responsive weather application built with React + Vite that fetches real-time 
 ---
 ## Project Structure
 
+\`\`\`
 weather-app/
 ├── public/
 ├── src/
@@ -40,6 +41,7 @@ weather-app/
 ├── package.json
 ├── vite.config.js
 └── README.md
+\`\`\`
 ---
 ## Screenshot
 ![Weather App Screenshot](weather-app.PNG)
