@@ -21,10 +21,28 @@ A responsive weather application built with React + Vite that fetches real-time 
 - **Vite** – Build tool & dev server
 - **OpenWeatherMap API** – Live weather data
 - **CSS3** – Styling & responsiveness
+---
+## Project Structure
 
+weather-app/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Error.jsx
+│   │   ├── WeatherDisplay.jsx
+│   │   └── WeatherInput.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+├── .gitignore
+├── package.json
+├── vite.config.js
+└── README.md
 ---
 ## Screenshot
-![Weather App Screenshot](weather-app.png)
+![Weather App Screenshot](weather-app.PNG)
 
 ## 📦 Installation & Setup
 
