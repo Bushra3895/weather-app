@@ -23,6 +23,8 @@ A responsive weather application built with React + Vite that fetches real-time 
 - **CSS3** – Styling & responsiveness
 
 ---
+## Screenshot
+![Weather App Screenshot](weather-app.png)
 
 ## 📦 Installation & Setup
 
