@@ -40,8 +40,7 @@ weather-app/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
-
+```
 ---
 ## Screenshot
 ![Weather App Screenshot](weather-app.PNG)
