@@ -84,25 +84,6 @@ VITE_API_KEY=your_openweather_api_key
 > 💡 Get your free API key from [openweathermap.org](https://openweathermap.org/api)
 
 ---
-
-## 📁 Project Structure
-
-```
-weather-app/
-├── public/
-├── src/
-│   ├── components/
-│   ├── assets/
-│   ├── App.jsx
-│   └── main.jsx
-├── .env
-├── .gitignore
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-```
-
 ---
 
 ## 👩‍💻 Developer
